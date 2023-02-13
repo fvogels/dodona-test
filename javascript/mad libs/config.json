@@ -5,6 +5,13 @@
       "nl": "Mad Libs"
     }
   },
-  "evaluation": {},
-  "labels": []
+  "evaluation": {
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "RXdC9PXehPN6eDiu5UVsYmx5gN2dw34239IEDWd7Zei_MzRHGWX7xn6yvabx4mT2",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
