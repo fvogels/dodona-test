@@ -5,6 +5,13 @@
       "nl": "Plot"
     }
   },
-  "evaluation": {},
-  "labels": []
+  "evaluation": {
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "uH7AadNSA3ytp7DiBekQ-_9VSaSWmzKbZZBgyWba5VMuAe6--KqDj2dQWnKE_Ejq",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
