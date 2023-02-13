@@ -5,6 +5,13 @@
       "nl": "Echo"
     }
   },
-  "evaluation": {},
-  "labels": []
+  "evaluation": {
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "8mDZbmAd9RSxM4KEnHtmVtHwY6pA7Ituq4iEVzR4SC2VrWRa_7mN_rv_IIWmF3b2",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
