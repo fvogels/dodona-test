@@ -5,5 +5,11 @@
       "en": "Echo"
     }
   },
-  "labels": []
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "nkBwbi5VMFGvkr7dFtfnR_ttdzQqFejgJrYDi3F35EHdQ4TfpjEAzKPVIxI_fkXn",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
